@@ -6,12 +6,12 @@ jade == pug    现在 jade 模板改名为 pug
 npm install bower -g   （现在bower官网已经停止更新了，我全局安装也失败，所以静态资源的引用npm来完成）
 npm install body-parser
 
-Mongoose  安装  
-			1. .msi 二进制文件
-			2.  配置Path
-			3.  开启服务mongod 进入交互mongo
-      4.  选择数据库 use xxx
-Mongoose  Mongodb
-	Schema    模式  数据字段的定义
-	Model     模型  对模式进行编译  生成模型
-	Documents 文档  调用构造函数   （数据存入）
+##　Mongoose  安装  
+1. .msi 二进制文件
+2.  配置Path
+3.  开启服务mongod 进入交互mongo
+4.  选择数据库 use xxx
+##　Mongoose  Mongodb
+- Schema    模式  数据字段的定义
+- Model     模型  对模式进行编译  生成模型
+- Documents 文档  调用构造函数   （数据存入）
