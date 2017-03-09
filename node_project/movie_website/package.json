@@ -1,0 +1,25 @@
+{
+  "name": "imooc",
+  "version": "1.0.0",
+  "description": "dale study node movie station.",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.0",
+    "moment": "^2.17.1",
+    "mongoose": "^4.8.5",
+    "multer": "^0.1.8",
+    "pug": "^2.0.0-beta11",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "test"
+  ],
+  "author": "dale",
+  "license": "ISC"
+}
